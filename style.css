@@ -12,3 +12,11 @@ body {
 button {
     background-color: #64a712;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
